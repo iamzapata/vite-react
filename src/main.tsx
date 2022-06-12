@@ -1,10 +1,17 @@
+import App from './App'
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import App from './App'
+
 import './index.css'
 
-ReactDOM.createRoot(document.getElementById('root')!).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-)
+const DOMRoot = document.getElementById('root')
+
+if (!DOMRoot) {
+  console.error('Did not find a dom node with an id of #root')
+} else {
+  ReactDOM.createRoot(DOMRoot).render(
+    <React.StrictMode>
+      <App />
+    </React.StrictMode>
+  )
+}
