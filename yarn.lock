@@ -2114,7 +2114,7 @@ natural-compare@^1.4.0:
 
 "neu-component@https://github.com/iamzapata/neu-component":
   version "1.0.0"
-  resolved "https://github.com/iamzapata/neu-component#e5ebe2652219d60958b8be39b2ac522ff90ebec2"
+  resolved "https://github.com/iamzapata/neu-component#67309b8e2a38df6736f0f42fd47848730e97979c"
   dependencies:
     "@babel/parser" "^7.18.4"
     "@testing-library/react" "^13.3.0"
