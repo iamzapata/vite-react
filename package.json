@@ -7,9 +7,9 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "prepare": "husky install",
+    "ts": "tsc --noEmit",
     "format": "prettier --write src/**/*",
     "lint": "eslint",
-    "check": "tsc --noEmit",
     "test": "vitest",
     "test:ui": "vitest --ui",
     "postinstall": "yarn outdated"
