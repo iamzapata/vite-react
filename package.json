@@ -11,7 +11,8 @@
     "lint": "eslint",
     "check": "tsc --noEmit",
     "test": "vitest",
-    "test:ui": "vitest --ui"
+    "test:ui": "vitest --ui",
+    "postinstall": "yarn outdated"
   },
   "dependencies": {
     "react": "^18.0.0",
