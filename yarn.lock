@@ -2154,7 +2154,7 @@ natural-compare@^1.4.0:
 
 "neu-component@https://github.com/iamzapata/neu-component":
   version "1.0.0"
-  resolved "https://github.com/iamzapata/neu-component#67309b8e2a38df6736f0f42fd47848730e97979c"
+  resolved "https://github.com/iamzapata/neu-component#bc5f9508cdfc0edf7aca10f65f1231744f1ea3f5"
   dependencies:
     "@babel/parser" "^7.18.4"
     "@testing-library/react" "^13.3.0"
@@ -2842,7 +2842,7 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha512-/aCDEGatGvZ2BIk+HmLf4ifCJFwvKFNb9/JeZPMulfgFracn9QFcAf5GO8B/mweUjSoblS5In0cWhqpfs/5PQA==
 
-typescript@^4.6.3:
+typescript@^4.7.3:
   version "4.7.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.7.3.tgz#8364b502d5257b540f9de4c40be84c98e23a129d"
   integrity sha512-WOkT3XYvrpXx4vMMqlD+8R8R37fZkjyLGlxavMc4iB8lrl8L0DeTcHbYgw/v0N/z9wAFsgBhcsF0ruoySS22mA==
