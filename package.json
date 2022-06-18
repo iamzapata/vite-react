@@ -15,31 +15,31 @@
     "postinstall": "yarn outdated"
   },
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "^3.4.2",
     "@storybook/builder-vite": "^0.1.36",
     "@testing-library/jest-dom": "^5.16.4",
-    "@types/react": "^18.0.0",
+    "@types/react": "18.0.14",
     "@types/react-dom": "^18.0.0",
     "@typescript-eslint/eslint-plugin": "5.28.0",
     "@typescript-eslint/parser": "5.28.0",
     "@vitejs/plugin-react": "^1.3.2",
-    "eslint": "^8.17.0",
+    "eslint": "8.18.0",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
-    "happy-dom": "^5.2.0",
+    "happy-dom": "5.3.1",
     "husky": "^8.0.0",
-    "lint-staged": "^13.0.1",
+    "lint-staged": "13.0.2",
     "neu-component": "https://github.com/iamzapata/neu-component",
-    "prettier": "^2.6.2",
+    "prettier": "2.7.1",
     "sass": "^1.52.3",
-    "typescript": "^4.7.3",
+    "typescript": "4.7.4",
     "vite": "^2.9.9",
     "vite-tsconfig-paths": "^3.5.0",
-    "vitest": "^0.14.2",
+    "vitest": "0.15.1",
     "yarn-upgrade-all": "^0.7.1"
   }
 }
