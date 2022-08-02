@@ -12,7 +12,7 @@
     "lint": "eslint",
     "test": "vitest",
     "test:ui": "vitest --ui",
-    "postinstall": "yarn outdated"
+    "postinstall": "yarn outdated --no-error-on-outdated"
   },
   "dependencies": {
     "react": "^18.2.0",
